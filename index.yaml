@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  AttendanceManagementSystemChart:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2024-02-13T13:22:09.410769919+05:30"
+    description: attendance app chart
+    digest: 6648ca8930dda082e9009979f3f8046006f67f9c9e6dc41b7ea5c06a3e85f91c
+    name: AttendanceManagementSystemChart
+    urls:
+    - Packages/AttendanceManagementSystemChart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-13T13:22:09.410096229+05:30"
